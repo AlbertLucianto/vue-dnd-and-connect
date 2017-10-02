@@ -1,4 +1,4 @@
-# y
+# Vue DnD and Connect 
 
 > Drag and drop with connect animation
 
